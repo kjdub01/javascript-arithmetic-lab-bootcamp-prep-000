@@ -24,7 +24,14 @@ function dec(n) {
 
 function makeInt(n, base) {
   if (n === a.toString) {
-    return parseInt(`n`)
+    return parseInt
+  }
+  else if (n === ) {
+    return parseInt
+  }
+  else {
+    return parseInt(NaN)
+  }
 }
 
 function preserveDecimal(n) {
