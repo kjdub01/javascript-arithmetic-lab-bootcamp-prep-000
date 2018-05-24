@@ -26,7 +26,7 @@ function makeInt(n, base) {
   if (n === 'a.toString') {
     return parseInt(a)
   }
-  else if (n === '0x2328') {
+  else if (n === '0*2328') {
     return parseInt('n', 10)
   }
   else {
