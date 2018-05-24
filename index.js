@@ -23,8 +23,8 @@ function dec(n) {
 }
 
 function makeInt() {
-    var a = parseInt ('1');
-    var b = parseInt ('0X2328', 10);
+    var a = parseInt ('n');
+    var b = parseInt ('n', 10);
     var c = isNaN(parseInt('sldkjflksjf'));
   }
   
