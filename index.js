@@ -27,11 +27,6 @@ function makeInt(n, base) {
   }
   
 
-function preserveDecimal(n) {
-  if (n === '2.222') {
+function preserveDecimal(n) { 
     return parseFloat(`n`)
   }
-  else {
-    return parseFloat ('NaN')
-  }
-}
