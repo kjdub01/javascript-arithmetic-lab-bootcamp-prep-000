@@ -23,7 +23,8 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
-  return parseInt(`n`)
+  if (n === a.toString) {
+    return parseInt(`n`)
 }
 
 function preserveDecimal(n) {
