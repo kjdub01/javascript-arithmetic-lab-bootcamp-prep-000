@@ -23,16 +23,9 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
-  if (n === 'a.toString') {
-    return parseInt(a)
-  }
-  else if (n === '0*2328') {
     return parseInt('n', 10)
   }
-  else {
-    return parseInt('NaN', 10)
-  }
-}
+  
 
 function preserveDecimal(n) {
   if (n === '2.222') {
