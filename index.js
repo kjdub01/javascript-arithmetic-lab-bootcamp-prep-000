@@ -22,7 +22,7 @@ function dec(n) {
   return n -= 1;
 }
 
-function makeInt() {
+function makeInt(n) {
     var a = parseInt ('n');
     var b = parseInt ('n', 10);
     var c = isNaN(parseInt('sldkjflksjf'));
