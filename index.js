@@ -24,7 +24,7 @@ function dec(n) {
 
 function makeInt(n, base) {
   if (n === a.toString) {
-    return parseInt
+    return parseInt(a)
   }
   else if (n === ) {
     return parseInt
