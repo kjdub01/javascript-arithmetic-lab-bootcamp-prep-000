@@ -30,10 +30,15 @@ function makeInt(n, base) {
     return parseInt
   }
   else {
-    return parseInt(NaN)
+    return parseInt('NaN')
   }
 }
 
 function preserveDecimal(n) {
-  return parseFloat(`n`)
+  if (n === ) {
+    return parseFloat(`n`)
+  }
+  else {
+    return parseFloat ('NaN')
+  }
 }
